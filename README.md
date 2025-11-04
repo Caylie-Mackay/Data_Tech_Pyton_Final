@@ -6,3 +6,5 @@ https://www.kaggle.com/datasets/ayeshasiddiqa123/salary-data
 !["Top 10 Job Titles.png"](https://raw.githubusercontent.com/Caylie-Mackay/Data_Tech_Pyton_Final/refs/heads/main/Top%2010%20Job%20Titles.png)
 
 !['Years of Experience by Gender.png'](https://raw.githubusercontent.com/Caylie-Mackay/Data_Tech_Pyton_Final/refs/heads/main/Years%20of%20Experience%20by%20Gender.png)
+
+!['Distrobution of Salary by Education Level'](https://raw.githubusercontent.com/Caylie-Mackay/Data_Tech_Pyton_Final/refs/heads/main/Distrobution%20of%20Salaries%20by%20Education%20Level.png)
